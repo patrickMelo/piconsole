@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PiConsole")(type "KiCad")(uri "${KIPRJMOD}/piconsole.kicad_sym")(options "")(descr ""))
+)
